@@ -1,0 +1,23 @@
+/* Album */
+"Album" = "Album";
+
+/* Artist */
+"Artist" = "Artist";
+
+/* Authenticated! */
+"Authenticated!" = "Authenticated!";
+
+/* Logged in as: */
+"Logged in as: " = "Logged in as: ";
+
+/* No Song Playing */
+"No Song Playing" = "No Song Playing";
+
+/* Reauthenticate */
+"Reauthenticate" = "Reauthenticate";
+
+/* You haven't authenticated with Last.fm yet! */
+"You haven't authenticated with Last.fm yet!" = "You haven't authenticated with Last.fm yet!";
+
+/* Refresh Authentication Status */
+"Refresh Authentication Status" = "Refresh Authentication Status";
